@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="ejercicio1.aspx.cs" Inherits="TP2_GRUPO_21.ejercicio1" %>
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="ejercicio1.aspx.cs" Inherits="TP2_GRUPO_21.ejercicio1" %>
 
 <!DOCTYPE html>
 
@@ -21,21 +21,21 @@
             <table class="auto-style1">
                 <tr>
                     <td class="auto-style2">
-                        <asp:Label ID="lbl1" runat="server" Text="Ingrese nombre del producto : "></asp:Label>
+                        Ingrese nombre del producto :
                         <asp:TextBox ID="txtbox1" runat="server"></asp:TextBox>
                     </td>
                     <td>
-                        <asp:Label ID="lbl3" runat="server" Text="Ingrese nombre del producto : "></asp:Label>
+                        Cantidades:
                         <asp:TextBox ID="txtbox3" runat="server"></asp:TextBox>
                     </td>
                 </tr>
                 <tr>
                     <td class="auto-style2">
-                        <asp:Label ID="lbl2" runat="server" Text="Ingrese nombre del producto : "></asp:Label>
+                        Ingrese nombre del producto :
                         <asp:TextBox ID="txtbox2" runat="server"></asp:TextBox>
                     </td>
                     <td>
-                        <asp:Label ID="lbl4" runat="server" Text="Ingrese nombre del producto : "></asp:Label>
+                        Cantidades:
                         <asp:TextBox ID="txtbox4" runat="server"></asp:TextBox>
                     </td>
                 </tr>
